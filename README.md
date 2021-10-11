@@ -14,9 +14,9 @@
 <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v2.png"/>
 
 
-[![](https://github-readme-stats.vercel.app/api?username=Antonex&theme=yeblu&show_icons=true) 
+<!--[![](https://github-readme-stats.vercel.app/api?username=Antonex&theme=yeblu&show_icons=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonex&theme=shades-of-lime&layout=compact)](https://github.com/Antonex)
-
+-->
 
 
 <!--
